@@ -1,0 +1,3 @@
+C:/Users/heath/CLionProjects/C++Trapezoid/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/heath/CLionProjects/C++Trapezoid/cmake-build-debug/CMakeFiles/C__Trapezoid.dir
+C:/Users/heath/CLionProjects/C++Trapezoid/cmake-build-debug/CMakeFiles/rebuild_cache.dir
